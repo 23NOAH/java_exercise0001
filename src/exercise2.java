@@ -3,6 +3,7 @@ public class exercise2 {
     20230303 4장 연습문제
     NOAH
     */
+
     public static void main(String[] args) {
         //Q1 조건문의 참과 거짓
         System.out.println("Q1 = everywhere");
